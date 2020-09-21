@@ -7,6 +7,13 @@ This repo serves as an example for anyone wondering about the basic requirements
 
 To see a more detailed breakdown of the open source process check out [this wiki](https://github.com/tkshill/Template/wiki/A-Starter-Guide-to-Open-Source-Project-Maintenance) of the template project detailing tools and tips for OSS maintenance and contributions.
 
+Topics covered in the Wiki:
+- Setting up the "community" docs defined by Github insights
+- The value of Issue and Pull Request Templates
+- How to communicate well with contributors
+- Avoiding burnout as a maintainer
+- Links to long form content on OSS development
+
 ## Roadmap
 
 The goal is to craft as many useful and relevant features as we can, in a transparent way so that anyone who stumbles upon this repo can see not just result, but process.
