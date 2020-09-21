@@ -1,6 +1,5 @@
 # TEMPLATE OSS REPOSITORY
 
----
 
 ## Description
 
@@ -14,7 +13,7 @@ The goal is to craft as many useful and relevant features as we can, in a transp
 
 ## Contributing
 
-Any and all folks are welcome to ccontribute. Please check out our [contribution](https://github.com/tkshill/Template/blob/main/CONTRIBUTING.md) file for a full breakdown!
+Any and all folks are welcome to contribute. Please check out our [contribution](https://github.com/tkshill/Template/blob/main/CONTRIBUTING.md) file for a full breakdown!
 
 Also please take a look at the [Code of Conduct](https://github.com/tkshill/Template/blob/main/CODE_OF_CONDUCT.md) which explains how we try to make this an inclusive space for all.
 
