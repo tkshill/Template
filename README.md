@@ -35,3 +35,7 @@ This repo currently uses the [GPL-3.0 licencse](https://github.com/tkshill/Templ
 ## Project status
 
 Project is still being regularly updated, although since its main intended purpose is to be used as a template, large structural changes are not expected.
+
+## Contributors
+
+[Take a look at the people who make this possible!](https://github.com/tkshill/Template/blob/main/humans.md)
