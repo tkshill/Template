@@ -26,7 +26,7 @@ Also please take a look at the [Code of Conduct](https://github.com/tkshill/Temp
 
 ## Authors and acknowledgment
 
-Thank you to everyone who has helped or supported this project, aspecialy the [Virtual Coffee](https://virtualcoffee.io) community.
+Thank you to everyone who has helped or supported this project, especially the [Virtual Coffee](https://virtualcoffee.io) community.
 
 ## License
 
