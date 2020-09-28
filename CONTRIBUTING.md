@@ -1,6 +1,6 @@
 # Introduction
 
-Thank you for so much for considering contributing to this repostory. We really appreciate all the contributors who try to make this space better.
+Thank you for so much for considering contributing to this repository. We really appreciate all the contributors who try to make this space better.
 
 ### Why we made this doc.
 
@@ -35,7 +35,7 @@ If you haven't made a github account as yet, make one [now](https://github.com).
 
 Github uses a feature called _issues_. Issues are essentially a way to highlight bugs, features, problems, or any sort of suggestion or action you wish to happen on a github hosted project (you can find a more comprehensive explanation [here](https://guides.github.com/features/issues/)).
 
-We highly recommend looking at the existing reository issues to find a good open issue to start with. We always try to keep them populated with some beginner friendly issues that anyone can attempt to solve. We also use a `PR Submitted` tag to indicate when an Pull Request has been submitted for an issue, but it hasn't yet been merged, as most people would rather would on an issue with no attempted PRs yet.
+We highly recommend looking at the existing repository issues to find a good open issue to start with. We always try to keep them populated with some beginner friendly issues that anyone can attempt to solve. We also use a `PR Submitted` tag to indicate when an Pull Request has been submitted for an issue, but it hasn't yet been merged, as most people would rather would on an issue with no attempted PRs yet.
 
 If you feel like there's a contribution you would like to make that isn't represented by an already existing issue, feel free to create your own!
 
@@ -50,13 +50,13 @@ At this point, you have two options.
 
 ## Step 5. Awaiting Review
 
-Once you've submitted your pull request, the only thing left is to wait from feedback from one of the project maintainers. Since this is volunteer work for all of course, we ask for patience if you don't see a response immediately. Sometimes it takes about a day for someone's schedule to clear up to have the sit to properly review incoming PRs. We'd rather not rush a response after someone has put time and effort into submitted. If it's been over 24 hours and you haven't received any acknowledgement, you can post a message in the **#open-souce** channel in the slack reminded of your PR, and someone will get back to you.
+Once you've submitted your pull request, the only thing left is to wait from feedback from one of the project maintainers. Since this is volunteer work for all of course, we ask for patience if you don't see a response immediately. Sometimes it takes about a day for someone's schedule to clear up to have the sit to properly review incoming PRs. We'd rather not rush a response after someone has put time and effort into submitted. If it's been over 24 hours and you haven't received any acknowledgement, you can post a message in the **#open-source** channel in the slack reminded of your PR, and someone will get back to you.
 
 If the PR looks good, a maintainer will typically give feedback and merge the request immediately, otherwise they'll let you know what questions they have or what needs to change before your work can be accepted. Once it is, you'll see your changes on the main branch and VOILA, open source contribution complete!
 
 ## Step 6. Tips, Tricks and Gotchas
 
-This section is just little notes and bits of info that can smooth over some of the bumps and hiccups that can come along with contributiong.
+This section is just little notes and bits of info that can smooth over some of the bumps and hiccups that can come along with contributing.
 
 - While this isn't absolutely required, we highly recommend **associating your Pull Requests with the Issue that they're intended to address**. This makes review much easier and avoids confusion when looking back at past commits. Github allows you to link a PR to an issue both during and after the PR's creation (the option should located in rightmost panel of the github PR interface).
 - **Please do not hesitate to ask for help** in any part of this process if you feel confused. As soon as they can, project maintainers can try and get you through the parts which are confusing you. Just be aware that no one here is a github expert :), we're just folks happy and willing to help others get some experience.
